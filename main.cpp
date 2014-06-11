@@ -22,6 +22,7 @@ void MouseMove (int x, int y )
   Input.mi.dy = fy;
   ::SendInput(1,&Input,sizeof(INPUT));
 }
+
 int main()
 {
 	CvCapture* cap=cvCreateCameraCapture(0);
