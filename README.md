@@ -1,4 +1,4 @@
-Gesture-based-painting-and-video-recording
+Gesture-based-painting-and-video-recording with Zoom-in and Zoom-out features.
 ==========================================
 
 Gesture based painting and video recording being inspired by Pranav Mistry's work, SixthSense.
